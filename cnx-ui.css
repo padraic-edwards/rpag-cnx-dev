@@ -1,0 +1,132 @@
+.ics-scbanner {
+  background-color: rgb(137,137,140) !important;
+}
+
+.lotusStreamUpdate .lotusActions a[role="button"], .lotusCommunities .dfCommunityForums #dfTopicList span.lotusBtn a, .lotusCommunities .dfCommunityForums #dfForumList span.lotusBtn a, .lotusCommunities #ideatoins_main span.lotusBtn a, .lotusCommunities #startActivity span.lotusBtn a, .lotusCommunities div[id$="_FULLPAGE_listSection_controllerSection"] span.lotusBtn a, .lotusCommunities #calendar_view span.lotusBtn a, .lotusCommunities #calendarViews span.lotusBtn a, .lotusCommunities #fullRecomm span.lotusBtn a, .lotusCommunities #bookmarkContentAreaSub #headline-content span.lotusBtn a, .lotusCommunities ~ .lotusDialog .lconnFileInput .lconnUploadContainer span.lotusBtn a, #submit_button, #btn_actn__personCardSendEMail, .lotusRightCorner button, .lotusBtn[name="submitButton"], .ics-viewer-action-upload .actionLink, .lotusBtn.submit.lotusButtonSubmit, .filesList .lotusDetails .lotusBtnSmall, #mainActions .lotusBtn, #feedContentAreaSub #addFeedBtn, #memberAddForm #saveButton, span[id^="lconn_share_widget_Tagger"] input[type="submit"], #memberInviteForm .lotusFormButton[name="submit"], .dijitDialog .lotusFormButton.submit, div[id^="editBookmark"] input[type="submit"], span#createPlaceButton.lotusBtn.lotusBtnAction a, span[id^="lconn_act_StartActivityButton_"] a, #body .lotusContent > div.lotusBtnContainer .lotusBtn:not([id^="newButton"]) a {
+  background-color: rgb(141, 38, 56) !important;
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.lotusStreamUpdate .lotusActions a[role="button"]:active, .lotusStreamUpdate .lotusActions a[role="button"]:hover, .lotusCommunities .dfCommunityForums #dfTopicList span.lotusBtn a:active, .lotusCommunities .dfCommunityForums #dfTopicList span.lotusBtn a:hover, .lotusCommunities .dfCommunityForums #dfForumList span.lotusBtn a:active, .lotusCommunities .dfCommunityForums #dfForumList span.lotusBtn a:hover, .lotusCommunities #ideatoins_main span.lotusBtn a:active, .lotusCommunities #ideatoins_main span.lotusBtn a:hover, .lotusCommunities #startActivity span.lotusBtn a:active, .lotusCommunities #startActivity span.lotusBtn a:hover, .lotusCommunities div[id$="_FULLPAGE_listSection_controllerSection"] span.lotusBtn a:active, .lotusCommunities div[id$="_FULLPAGE_listSection_controllerSection"] span.lotusBtn a:hover, .lotusCommunities #calendar_view span.lotusBtn a:active, .lotusCommunities #calendar_view span.lotusBtn a:hover, .lotusCommunities #calendarViews span.lotusBtn a:active, .lotusCommunities #calendarViews span.lotusBtn a:hover, .lotusCommunities #fullRecomm span.lotusBtn a:active, .lotusCommunities #fullRecomm span.lotusBtn a:hover, .lotusCommunities #bookmarkContentAreaSub #headline-content span.lotusBtn a:active, .lotusCommunities #bookmarkContentAreaSub #headline-content span.lotusBtn a:hover, .lotusCommunities ~ .lotusDialog .lconnFileInput .lconnUploadContainer span.lotusBtn a:active, .lotusCommunities ~ .lotusDialog .lconnFileInput .lconnUploadContainer span.lotusBtn a:hover, #submit_button:active, #submit_button:hover, #btn_actn__personCardSendEMail:active, #btn_actn__personCardSendEMail:hover, .lotusRightCorner button:active, .lotusRightCorner button:hover, .lotusBtn[name="submitButton"]:active, .lotusBtn[name="submitButton"]:hover, .ics-viewer-action-upload .actionLink:active, .ics-viewer-action-upload .actionLink:hover, .lotusBtn.submit.lotusButtonSubmit:active, .lotusBtn.submit.lotusButtonSubmit:hover, .filesList .lotusDetails .lotusBtnSmall:active, .filesList .lotusDetails .lotusBtnSmall:hover, #mainActions .lotusBtn:active, #mainActions .lotusBtn:hover, #feedContentAreaSub #addFeedBtn:active, #feedContentAreaSub #addFeedBtn:hover, #memberAddForm #saveButton:active, #memberAddForm #saveButton:hover, span[id^="lconn_share_widget_Tagger"] input[type="submit"]:active, span[id^="lconn_share_widget_Tagger"] input[type="submit"]:hover, #memberInviteForm .lotusFormButton[name="submit"]:active, #memberInviteForm .lotusFormButton[name="submit"]:hover, .dijitDialog .lotusFormButton.submit:active, .dijitDialog .lotusFormButton.submit:hover, div[id^="editBookmark"] input[type="submit"]:active, div[id^="editBookmark"] input[type="submit"]:hover, span#createPlaceButton.lotusBtn.lotusBtnAction a:active, span#createPlaceButton.lotusBtn.lotusBtnAction a:hover, span[id^="lconn_act_StartActivityButton_"] a:active, span[id^="lconn_act_StartActivityButton_"] a:hover, #body .lotusContent > div.lotusBtnContainer .lotusBtn:not([id^="newButton"]) a:active, #body .lotusContent > div.lotusBtnContainer .lotusBtn:not([id^="newButton"]) a:hover {
+  color: rgb(141, 38, 56) !important;
+  border-color: rgb(141, 38, 56) !important;
+}
+
+a {
+  color: rgb(141, 38, 56) !important;
+}
+
+.icSearchPaneButton {
+  background-color: rgb(141, 38, 56) !important;
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.icSearchPaneButton:hover, .icSearchPaneButton.icSearchFocused {
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.ics-scbanner > a:hover::after, .ics-scbanner > button:hover::after, .ics-scbanner > .navmenu:hover::after {
+  border-bottom-color: rgb(141, 38, 56) !important; 
+}
+
+.ic-tile.ic-tile-active::before {
+  background: rgb(141, 38, 56) !important;
+}
+
+.ic-tile .ic-followed-entity .ic-followed-entity-name {
+  color: rgb(141, 38, 56) !important;
+}
+
+.lotusui30 a, .lotusui30 a:active, .lotusui30 a:focus, .lotusui30 a:hover, .lotusui30 a:visited {
+  color: rgb(141, 38, 56) !important;
+}
+
+.lotusTabs li.lotusSelected, .lotusTabs li.bx--tabs__nav-item--selected, .lotusNavTabs#activitiesNagvigationToolbar li.lotusSelected, .lotusNavTabs#activitiesNagvigationToolbar li.bx--tabs__nav-item--selected, .lotusNavTabs#pageTabs li.lotusSelected, .lotusNavTabs#pageTabs li.bx--tabs__nav-item--selected, .blog.admin .lotusNavTabs li.lotusSelected, .blog.admin .lotusNavTabs li.bx--tabs__nav-item--selected, .blog.lotusui .lotusNavTabs li.lotusSelected, .blog.lotusui .lotusNavTabs li.bx--tabs__nav-item--selected, .app_palette_modal_tabs_ul li.lotusSelected, .app_palette_modal_tabs_ul li.bx--tabs__nav-item--selected, .bx--tabs__nav li.lotusSelected, .bx--tabs__nav li.bx--tabs__nav-item--selected, .streamHeaderWrapper span[id^="com_ibm_social_as_filter_FilterContainer_"] li.lotusSelected, .streamHeaderWrapper span[id^="com_ibm_social_as_filter_FilterContainer_"] li.bx--tabs__nav-item--selected, #lotusHeaderNavigation_UL li.lotusSelected, #lotusHeaderNavigation_UL li.bx--tabs__nav-item--selected, .lotusPaletteBody .lotusPaletteNav .lotusMenu ul[role="tablist"] li.lotusSelected, .lotusPaletteBody .lotusPaletteNav .lotusMenu ul[role="tablist"] li.bx--tabs__nav-item--selected {
+  border-bottom-color: rgb(141, 38, 56) !important;
+}
+.lotusTabs li a:hover, .lotusNavTabs#activitiesNagvigationToolbar li a:hover, .lotusNavTabs#pageTabs li a:hover, .blog.admin .lotusNavTabs li a:hover, .blog.lotusui .lotusNavTabs li a:hover, .app_palette_modal_tabs_ul li a:hover, .bx--tabs__nav li a:hover, .streamHeaderWrapper span[id^="com_ibm_social_as_filter_FilterContainer_"] li a:hover, #lotusHeaderNavigation_UL li a:hover, .lotusPaletteBody .lotusPaletteNav .lotusMenu ul[role="tablist"] li a:hover {
+  background-color: rgb(141, 38, 56) !important;
+  border-color: rgb(141, 38, 56) !important;
+}
+.lotusTabs li a:focus, .lotusNavTabs#activitiesNagvigationToolbar li a:focus, .lotusNavTabs#pageTabs li a:focus, .blog.admin .lotusNavTabs li a:focus, .blog.lotusui .lotusNavTabs li a:focus, .app_palette_modal_tabs_ul li a:focus, .bx--tabs__nav li a:focus, .streamHeaderWrapper span[id^="com_ibm_social_as_filter_FilterContainer_"] li a:focus, #lotusHeaderNavigation_UL li a:focus, .lotusPaletteBody .lotusPaletteNav .lotusMenu ul[role="tablist"] li a:focus {
+  border-color: rgb(141,38,56) !important;
+}
+
+.avatar {
+  fill: rgb(141, 38, 56) !important;
+}
+
+.ic-itm-bar .set-base.selectedSet {
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.ic-itm-bar .people-set .ic-bizcard-section1 .selected {
+  box-shadow: 0 0 0 3px rgb(141, 38, 56) !important;
+}
+
+.ic-itm-bar .setSideBar .add-contacts:hover, .ic-itm-bar .setSideBar .remove-contacts:hover:hover, .ic-itm-bar .setSideBar .remove-contacts .editing:hover {
+  fill: rgb(141, 38, 56) !important;
+}
+
+.template-homepage .om-go-to-top-container .om-go-to-top-btn {
+  background-color: rgb(141, 38, 56) !important;
+  border: 1px solid rgb(141, 38, 56);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2) !important;
+}
+
+#notificationsMenu .icBanner-popover-footer .icBanner-footer-link {
+color: rgb(141, 38, 56) !important;
+}
+
+#notificationsMenu .header-right span, #notificationsMenu .header-right a {
+  color: rgb(141, 38, 56) !important;
+}
+
+.ics-scbanner div.navmenu .navsimplelist > li a:focus, .ics-scbanner div.navmenu .navsimplelist > li div.submenu:focus {
+  border-bottom-color: rgb(141, 38, 56) !important;
+  border-top-color: rgb(141, 38, 56) !important;
+}
+
+#sametime-tray ul.navsimplelist button {
+  background-color: rgb(141, 38, 56) !important;
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.stproxy_navbarMenuNonVerse ul.navsimplelist .stproxy_navbarMenuNonVerse_buttonContainer button {
+  background: rgb(141, 38, 56) !important;
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.ic-itm-bar .people-set .ic-bizcard-section1 .action {
+  fill: rgb(141, 38, 56) !important;
+}
+.ic-itm-bar .people-set .ic-bizcard-section1 .action .biz-card {
+  fill: rgb(141, 38, 56) !important;
+}
+.ic-itm-bar .people-set .ic-bizcard-section1 .action:hover::before, .ic-itm-bar .people-set .ic-bizcard-section1 .action:focus::before {
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.people-set .ic-bizcard-section1 .action:focus::before, .people-set .ic-bizcard-section1 .action:hover::before {
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.ic-stream-controls .ic-stream-controls-options ul.bx--tabs__nav li.bx--tabs__nav-item.ic-stream-controls-item:hover {
+  color: rgb(141, 38, 56) !important;
+}
+
+.setSideBar .add-contacts:focus {
+  box-shadow: 0 0 0 1px rgb(141, 38, 56) !important;
+}
+
+.circle-set-focus:focus:not(.dragging)::before, .ic-itm-bar .people-set.circle-set-focus:focus:not(.dragging)::before {
+  border-color: rgb(141, 38, 56) !important;
+}
+
+.ic-icon:focus, .ic-icon-button:focus, .ic-stack-tile:focus, .ic-tile:focus, .ic-group-nav-left:focus, .ic-group-nav-right:focus {
+  outline-color: rgb(141, 38, 56) !important;
+}
+
+#javlinDiv .personMenu ul.topActionHolder li.topAction:not(.topActionClose) a {
+  color: rgb(141, 38, 56) !important;
+}
